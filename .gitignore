@@ -4,4 +4,4 @@ __pycache__/
 
 .vscode
 
-*.egg_info/
+*.egg-info/
