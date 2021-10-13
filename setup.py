@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-setup(name="calibrationtfg",
+setup(name="calibration_tfg",
       packages=find_packages(),
       package_dir={"": "src"},
       description="Runs tag frequency grouping calibration experiments",
