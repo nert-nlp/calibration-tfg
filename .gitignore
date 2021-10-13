@@ -5,3 +5,7 @@ __pycache__/
 .vscode
 
 *.egg-info/
+
+dist
+
+notebooks
